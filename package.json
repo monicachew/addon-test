@@ -1,0 +1,13 @@
+{
+  "name": "addon-test",
+  "title": "addon-test",
+  "id": "jid1-CBiD1QrjTMurLw",
+  "description": "a basic add-on",
+  "author": "",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "permissions": {
+    "cross-domain-content": ["http://lightbeamdb.org",
+                             "https://lightbeamdb.org"]
+  }
+}
